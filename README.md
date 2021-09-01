@@ -13,7 +13,7 @@ Que tal fazer parte de um novo time e ter a oportunidade de trabalhar com tecnol
 - Qlik Sense
 - Integrações com diferentes sistemas e plataformas
 
-## VAGA PARA DESENVOLVEDOR(a) FRONT-END (RJ)
+## VAGA PARA DESENVOLVEDOR(a) BACK-END (RJ)
 
 DESCRIÇÃO DA VAGA
 Temos a missão de manter e evoluir um ecossistema complexo com dezenas de aplicações diferentes rodando em ambiente de alta-escalabilidade e que precisam responder com máxima eficiência.
